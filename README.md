@@ -249,7 +249,7 @@ print(data.info())
 このリポジトリを使用する場合は、以下のように引用してください：
 
 ```
-Miyamaru, Y. (2024). An Empirical Study on Passive Music Listening Experiences in Childhood and Episodic Memory: Through a Questionnaire Survey on the "Parent's Car Theory". GitHub Repository. https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
+Miyamaru, Y. (2025). An Empirical Study on Passive Music Listening Experiences in Childhood and Episodic Memory: Through a Questionnaire Survey on the "Parent's Car Theory". GitHub Repository. https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
 ```
 
 ### English
@@ -257,7 +257,7 @@ Miyamaru, Y. (2024). An Empirical Study on Passive Music Listening Experiences i
 When using this repository, please cite as follows:
 
 ```
-Miyamaru, Y. (2024). An Empirical Study on Passive Music Listening Experiences in Childhood and Episodic Memory: Through a Questionnaire Survey on the "Parent's Car Theory". GitHub Repository. https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
+Miyamaru, Y. (2025). An Empirical Study on Passive Music Listening Experiences in Childhood and Episodic Memory: Through a Questionnaire Survey on the "Parent's Car Theory". GitHub Repository. https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
 ```
 
 ---
@@ -304,11 +304,11 @@ We would like to thank all participants who cooperated in this study.
 
 ### 日本語
 
-質問やフィードバックがある場合は、GitHubのIssuesまたはPull Requestsを通じてお知らせください。
+質問やフィードバックがある場合は、GitHubのIssuesまたはPull Requests、またはメール（sound.lab.bm@gmail.com）を通じてお知らせください。
 
 ### English
 
-If you have any questions or feedback, please contact us through GitHub Issues or Pull Requests.
+If you have any questions or feedback, please contact us through GitHub Issues or Pull Requests, or by email (sound.lab.bm@gmail.com).
 
 ---
 
@@ -316,7 +316,7 @@ If you have any questions or feedback, please contact us through GitHub Issues o
 
 ### 日本語 / English
 
-- **2024年 / 2024**: 初版公開 / Initial release
+- **2025年 / 2025**: 初版公開 / Initial release
 
 ---
 

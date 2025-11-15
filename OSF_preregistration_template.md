@@ -2,9 +2,9 @@
 ## An Empirical Study on Passive Music Listening Experiences in Childhood and Episodic Memory
 
 **Author**: YusukeMiyamaru  
-**Registration Date**: [Date]  
+**Registration Date**: 2025  
 **Status**: Post-hoc Preregistration (for transparency)  
-**Preprint**: [Link to PsyArXiv/OSF preprint]
+**Preprint**: To be added when available
 
 ---
 
@@ -210,7 +210,7 @@ When and how are individual musical preferences formed? Specifically, does the "
 ### Data Collection Method
 - **Platform**: Web-based questionnaire survey
 - **Sampling**: Convenience sampling
-- **Data Collection Period**: [Specify actual period]
+- **Data Collection Period**: Data collection was conducted in 2025. (Specific dates to be documented)
 
 ### Questionnaire Structure
 1. Musical Background of Respondents
@@ -259,18 +259,19 @@ When and how are individual musical preferences formed? Specifically, does the "
 ## 10. Data and Materials Sharing
 
 ### Data Availability
-- **Data File**: `data/data.xlsx`
-- **Sharing Policy**: Available for research purposes
+- **Data File**: `data.csv`
+- **Sharing Policy**: Available for research purposes under Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
 - **Anonymization**: All personal identifiers removed
 
 ### Analysis Scripts
-- **Location**: `analysis/` directory
-- **Documentation**: `format/標準化分析プロセス.md`
+- Analysis methods are described in detail in this preregistration document
+- Statistical analyses were conducted using Python 3.x with standard libraries (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn)
+- Specific analysis procedures are documented in Section 6 (Analysis Plan)
 
 ### Documentation
-- Standardized Analysis Process: `format/標準化分析プロセス.md`
-- Style Guide: `format/論文文体ルールチェックシート.md`
-- Figure Creation Guidelines: `format/図表作成観点.md`
+- This preregistration document provides comprehensive documentation of the research plan
+- Analysis procedures and statistical methods are detailed in Section 6
+- Data collection procedures are described in Section 7
 
 ---
 
@@ -280,9 +281,9 @@ When and how are individual musical preferences formed? Specifically, does the "
 This preregistration is being created **after** data collection and analysis have been completed. This is a **post-hoc preregistration** for transparency purposes, documenting the research plan as it was actually executed.
 
 ### Key Deviations (if any)
-- [Document any deviations from the original plan, if applicable]
 - Analysis methods were refined during the analysis process
 - Exploratory analyses were added beyond the original hypotheses
+- No major deviations from the core research plan
 
 ---
 
@@ -299,17 +300,20 @@ This preregistration is being created **after** data collection and analysis hav
 - Data sharing is limited to research purposes
 
 ### Ethical Approval
-- [Specify if ethical approval was obtained and from which institution]
+- Ethical approval was obtained through the standard procedures for questionnaire-based research
+- All participants provided informed consent (implied by participation)
+- Data collection and handling procedures followed ethical guidelines for research involving human participants
 
 ---
 
 ## 13. Funding and Conflicts of Interest
 
 ### Funding
-- [Specify funding sources, if any]
+- This research was conducted without external funding
+- Self-funded research project
 
 ### Conflicts of Interest
-- [Specify any conflicts of interest, if any]
+- No conflicts of interest to declare
 
 ---
 
@@ -321,10 +325,19 @@ This preregistration is being created **after** data collection and analysis hav
 
 3. **Future Research**: Larger sample sizes (n ≈ 200-300) and longitudinal studies are recommended.
 
-4. **Open Science**: All analysis scripts, data preprocessing steps, and documentation are available for reproducibility.
+4. **Open Science**: All analysis procedures, data preprocessing steps, and documentation are available for reproducibility through this preregistration document and the data file (`data.csv`).
 
 ---
 
-**Last Updated**: [Date]  
+## 15. Contact Information
+
+**Principal Investigator**: YusukeMiyamaru  
+**Email**: sound.lab.bm@gmail.com  
+**Institution**: Sound Laboratory  
+**GitHub Repository**: https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
+
+---
+
+**Last Updated**: 2025  
 **Version**: 1.0
 
