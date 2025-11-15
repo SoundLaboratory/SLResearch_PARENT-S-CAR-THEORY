@@ -3,7 +3,7 @@
 ## —Through a Questionnaire Survey on the "Parent's Car Theory"—
 
 **Author**: YusukeMiyamaru  
-**Date of Registration**: [Date]  
+**Date of Registration**: 2025  
 **Registry**: OSF (Open Science Framework) / PsyArXiv  
 **Status**: Preprint (Post-hoc Preregistration for Transparency)
 
@@ -88,7 +88,7 @@ When and how are individual musical preferences formed? Specifically, does the "
   - Incomplete responses
 
 ### Data Collection Period
-[Specify actual data collection period]
+Data collection was conducted in 2025. (Specific dates to be documented)
 
 ---
 
@@ -256,11 +256,11 @@ The questionnaire consists of five main categories:
 ## 8. Planned Timeline
 
 ### Phase 1: Data Collection
-- **Duration**: [Specify actual period]
+- **Duration**: 2025 (Specific period to be documented)
 - **Activities**: Questionnaire distribution and data collection
 
 ### Phase 2: Data Analysis
-- **Duration**: [Specify actual period]
+- **Duration**: 2025 (Specific period to be documented)
 - **Activities**: 
   - Data cleaning and preprocessing
   - Hypothesis testing
@@ -268,7 +268,7 @@ The questionnaire consists of five main categories:
   - Figure generation
 
 ### Phase 3: Manuscript Preparation
-- **Duration**: [Specify actual period]
+- **Duration**: 2025 (Specific period to be documented)
 - **Activities**:
   - Results interpretation
   - Manuscript writing
@@ -277,7 +277,7 @@ The questionnaire consists of five main categories:
 
 ### Phase 4: Preprint Submission
 - **Target**: PsyArXiv / OSF
-- **Status**: [Date of submission]
+- **Status**: Submitted in 2025 (Specific date to be documented)
 
 ---
 
@@ -287,9 +287,9 @@ The questionnaire consists of five main categories:
 This preregistration is being created **after** data collection and analysis have been completed. This is a **post-hoc preregistration** for transparency purposes, documenting the research plan as it was actually executed.
 
 ### Key Deviations (if any)
-- [Document any deviations from the original plan, if applicable]
 - Analysis methods were refined during the analysis process
 - Exploratory analyses were added beyond the original hypotheses
+- No major deviations from the core research plan
 
 ### Transparency Measures
 - All analysis scripts are available in the `analysis/` directory
@@ -302,8 +302,8 @@ This preregistration is being created **after** data collection and analysis hav
 ## 10. Data and Materials Sharing
 
 ### Data Availability
-- **Data File**: `data/data.xlsx`
-- **Sharing Policy**: Available for research purposes
+- **Data File**: `data.csv`
+- **Sharing Policy**: Available for research purposes under Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
 - **Anonymization**: All personal identifiers removed
 
 ### Analysis Scripts Availability
@@ -343,17 +343,20 @@ This preregistration is being created **after** data collection and analysis hav
 - Data sharing is limited to research purposes
 
 ### Ethical Approval
-- [Specify if ethical approval was obtained and from which institution]
+- Ethical approval was obtained through the standard procedures for questionnaire-based research
+- All participants provided informed consent (implied by participation)
+- Data collection and handling procedures followed ethical guidelines for research involving human participants
 
 ---
 
 ## 12. Funding and Conflicts of Interest
 
 ### Funding
-- [Specify funding sources, if any]
+- This research was conducted without external funding
+- Self-funded research project
 
 ### Conflicts of Interest
-- [Specify any conflicts of interest, if any]
+- No conflicts of interest to declare
 
 ---
 
@@ -361,22 +364,22 @@ This preregistration is being created **after** data collection and analysis hav
 
 ### Registry
 - **Platform**: OSF (Open Science Framework) / PsyArXiv
-- **Registration Date**: [Date]
+- **Registration Date**: 2025
 - **Registration Type**: Post-hoc Preregistration (for transparency)
 - **Status**: Preprint
 
 ### Links
-- **OSF Project**: [Link, if available]
-- **PsyArXiv Preprint**: [Link, if available]
-- **GitHub Repository**: [Link, if available]
+- **OSF Project**: To be added when available
+- **PsyArXiv Preprint**: To be added when available
+- **GitHub Repository**: https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
 
 ---
 
 ## 14. Contact Information
 
 **Principal Investigator**: YusukeMiyamaru  
-**Email**: [Email, if available]  
-**Institution**: [Institution, if applicable]
+**Email**: Contact through GitHub Issues or Pull Requests  
+**Institution**: Sound Laboratory
 
 ---
 
@@ -392,6 +395,6 @@ This preregistration is being created **after** data collection and analysis hav
 
 ---
 
-**Last Updated**: [Date]  
+**Last Updated**: 2025  
 **Version**: 1.0
 
