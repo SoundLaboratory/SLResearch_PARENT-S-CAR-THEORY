@@ -198,7 +198,7 @@ For detailed analysis plans, please refer to the following files:
 
 1. **個人情報の保護**: データは匿名化されていますが、個人を特定できる可能性のある情報の再識別は避けてください
 2. **引用**: このデータセットを使用する場合は、適切に引用してください
-3. **ライセンス**: このデータセットはCC0（パブリックドメイン）またはCC BY（表示）ライセンスの下で公開されています
+3. **ライセンス**: このデータセットはCreative Commons Attribution 4.0 International Public License（CC BY 4.0）の下で公開されています
 
 #### English
 
@@ -206,7 +206,7 @@ This dataset is freely available for research purposes. However, please note the
 
 1. **Privacy Protection**: The data has been anonymized, but please avoid re-identification of potentially personally identifiable information
 2. **Citation**: Please cite appropriately when using this dataset
-3. **License**: This dataset is published under CC0 (Public Domain) or CC BY (Attribution) license
+3. **License**: This dataset is published under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
 
 ### データの読み込み / Loading Data
 
@@ -276,11 +276,15 @@ Miyamaru, Y. (2024). An Empirical Study on Passive Music Listening Experiences i
 
 ### 日本語
 
-このリポジトリのデータとドキュメントは、[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE)の下で公開されています。つまり、このデータセットはパブリックドメインにあり、いかなる制限もなく使用できます。
+このリポジトリのデータとドキュメントは、[Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)の下で公開されています。このライセンスにより、以下の条件を満たす限り、データを自由に共有・改変・商用利用することができます：
+
+- **表示（Attribution）**: 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更がある場合はその旨を明示してください
 
 ### English
 
-The data and documents in this repository are published under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE). This means the dataset is in the public domain and can be used without any restrictions.
+The data and documents in this repository are published under the [Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Under this license, you are free to share, adapt, and use the data for commercial purposes, provided that you:
+
+- **Attribution**: Give appropriate credit, provide a link to the license, and indicate if changes were made
 
 ---
 
