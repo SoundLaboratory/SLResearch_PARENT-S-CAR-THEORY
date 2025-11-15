@@ -292,10 +292,9 @@ This preregistration is being created **after** data collection and analysis hav
 - No major deviations from the core research plan
 
 ### Transparency Measures
-- All analysis scripts are available in the `analysis/` directory
-- Standardized analysis process is documented in `format/標準化分析プロセス.md`
-- All figures are generated from reproducible scripts
-- Data preprocessing steps are documented
+- Data and analysis methods are documented in this preregistration
+- All figures and analyses are based on the data file (`data.csv`)
+- Data preprocessing steps are described in the analysis plan
 
 ---
 
@@ -307,26 +306,19 @@ This preregistration is being created **after** data collection and analysis hav
 - **Anonymization**: All personal identifiers removed
 
 ### Analysis Scripts Availability
-- **Location**: `analysis/` directory
-- **Scripts Include**:
-  - `chapter2_analysis.py`: Demographic figures
-  - `chapter3_analysis.py`: Hypothesis testing figures
-  - `hypothesis1_*.py`: Hypothesis 1 analyses (basic, critical, improved, exploratory, integrated)
-  - `hypothesis2_*.py`: Hypothesis 2 analyses
-  - `hypothesis3_*.py`: Hypothesis 3 analyses
-  - `hypothesis4_*.py`: Hypothesis 4 analyses
-  - `exploratory_analysis.py`: General exploratory analyses
-  - `comprehensive_integrated_analysis.py`: Comprehensive integration
+- Analysis methods are described in detail in this preregistration document
+- Statistical analyses were conducted using Python 3.x with standard libraries (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn)
+- Specific analysis procedures are documented in Section 5 (Analysis Plan)
 
 ### Documentation Availability
-- **Standardized Analysis Process**: `format/標準化分析プロセス.md`
-- **Style Guide**: `format/論文文体ルールチェックシート.md`
-- **Figure Creation Guidelines**: `format/図表作成観点.md`
+- This preregistration document provides comprehensive documentation of the research plan
+- Analysis procedures and statistical methods are detailed in Section 5
+- Data collection procedures are described in Section 7
 
 ### Reproducibility
-- All analysis scripts are executable and reproducible
-- Figure generation scripts are documented
-- Data preprocessing steps are standardized
+- All analysis procedures are documented in this preregistration
+- Data file (`data.csv`) is available for replication
+- Statistical methods and interpretation criteria are clearly specified
 
 ---
 
@@ -378,7 +370,7 @@ This preregistration is being created **after** data collection and analysis hav
 ## 14. Contact Information
 
 **Principal Investigator**: YusukeMiyamaru  
-**Email**: Contact through GitHub Issues or Pull Requests  
+**Email**: sound.lab.bm@gmail.com  
 **Institution**: Sound Laboratory
 
 ---
