@@ -6,6 +6,20 @@
 
 ---
 
+## 関連リンク / Related Links
+
+### 日本語
+
+- **OSFプロジェクト**: [https://osf.io/h78dj_v1](https://osf.io/h78dj_v1)
+- **研究ホームページ**: [https://sound-laboratory.org/#/research/parent-car-theory](https://sound-laboratory.org/#/research/parent-car-theory)
+
+### English
+
+- **OSF Project**: [https://osf.io/h78dj_v1](https://osf.io/h78dj_v1)
+- **Research Homepage**: [https://sound-laboratory.org/#/research/parent-car-theory](https://sound-laboratory.org/#/research/parent-car-theory)
+
+---
+
 ## 研究概要 / Research Overview
 
 ### 日本語

@@ -361,7 +361,8 @@ This preregistration is being created **after** data collection and analysis hav
 - **Status**: Preprint
 
 ### Links
-- **OSF Project**: To be added when available
+- **OSF Project**: https://osf.io/h78dj_v1
+- **Research Homepage**: https://sound-laboratory.org/#/research/parent-car-theory
 - **PsyArXiv Preprint**: To be added when available
 - **GitHub Repository**: https://github.com/SoundLaboratory/SLResearch_PARENT-S-CAR-THEORY
 
